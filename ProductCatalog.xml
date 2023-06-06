@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductCatalog>
+    <PhoneCatalog>
+        <phone id="GooglePixel6">
+            <name>Google Pixel 6</name>
+            <price>799.99</price>
+            <image>Google-Pixel 6.jpg</image>
+            <manufacturer>Google</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount>
+            <quantity>100</quantity>
+       <manufacturerRebate>No</manufacturerRebate>
+        </phone>
+        <phone id="Iphone14pro">
+            <name>Iphone 14 pro</name>
+            <price>699.99</price>
+            <image>iphone14pro1.jfif</image>
+            <manufacturer>Apple</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount>
+            <quantity>100</quantity>
+       <manufacturerRebate>No</manufacturerRebate>
+        </phone>
+        <phone id="MotorolaG">
+            <name>Motorola G</name>
+            <price>999.99</price>
+            <image>motog.jpg</image>
+            <manufacturer>Motorola</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount>
+            <quantity>100</quantity>
+            <manufacturerRebate>No</manufacturerRebate>
+        </phone>
+        <phone id="SamsungS22Ultra">
+            <name>Samsung S 22 Ultra</name>
+            <price>599.99</price>
+            <image>s22ultra.jpg</image>
+            <manufacturer>Samsung</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount>
+            <quantity>100</quantity>
+       <manufacturerRebate>No</manufacturerRebate>
+        </phone>
+        <phone id="SamsungGalaxyS10">
+            <name>Samsung Galaxy S10</name>
+            <price>649.99</price>
+            <image>samsung10.jpg</image>
+            <manufacturer>Samsung</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount>
+            <quantity>100</quantity>
+       <manufacturerRebate>No</manufacturerRebate>
+        </phone>
+        <phone id="SamsungGalaxyNot10">
+            <name>Samsung Galaxy Note 10</name>
+            <price>849.99</price>
+            <image>snote10.jpg</image>
+            <manufacturer>Samsung</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount>
+            <quantity>100</quantity>
+       <manufacturerRebate>No</manufacturerRebate>
+        </phone>
+            <phone id="SamsungGalaxyS9">
+            <name>Samsung Galaxy S9</name>
+            <price>549.99</price>
+            <image>samsungs9.jpg</image>
+            <manufacturer>Samsung</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount>
+            <quantity>100</quantity>
+       <manufacturerRebate>No</manufacturerRebate>
+        </phone>
+        <phone id="OnePlus10t">
+            <name>One Plus 10t</name>
+            <price>449.99</price>
+            <image>oneplus10t.jpg</image>
+            <manufacturer>OnePlus</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount>
+            <quantity>100</quantity>
+       <manufacturerRebate>No</manufacturerRebate>
+        </phone>
+        <phone id="OnePlus7">
+            <name>One Plus 7</name>
+            <price>499.99</price>
+            <image>oneplus7.jpg</image>
+            <manufacturer>OnePlus</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount>
+            <quantity>100</quantity>
+       <manufacturerRebate>Yes</manufacturerRebate>
+        </phone>
+    
+    </PhoneCatalog>
+     <LaptopCatalog>
+        <laptop id="SamsungGalaxyBook">
+            <name>Samsung Galaxy Book</name>
+            <price>1199.99</price>
+            <image>samsunglaptop.jpg</image>
+            <manufacturer>Samsung</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount>
+            <quantity>100</quantity>
+       <manufacturerRebate>No</manufacturerRebate>
+        </laptop>
+        <laptop id="Pro">
+            <name>Samsung Galaxy Book Pro 2</name>
+            <price>1299.99</price>
+            <image>samsunglaptop2.jpg</image>
+            <manufacturer>Samsung</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount>
+            <quantity>100</quantity>
+       <manufacturerRebate>No</manufacturerRebate>
+        </laptop>
+        <laptop id="SamsungGalaxyBookGo">
+            <name>Samsung Galaxy Book Go</name>
+            <price>399.99</price>
+            <image>samsunglaptop3.jpg</image>
+            <manufacturer>Samsung</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount>
+            <quantity>100</quantity>
+       <manufacturerRebate>No</manufacturerRebate>
+        </laptop>
+    
+        <laptop id="Macbookpro14">
+            <name>"Macbook pro 14"</name>
+            <price>1199.99</price>
+            <image>Macbook pro 14.jpg</image>
+            <manufacturer>Apple</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount>
+            <quantity>100</quantity>
+       <manufacturerRebate>No</manufacturerRebate>
+        </laptop>
+        <laptop id="AppleMacbookAir">
+            <name>Apple Macbook Air</name>
+            <price>899.99</price>
+            <image>macair.jpg</image>
+            <manufacturer>Apple</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount>
+            <quantity>100</quantity>
+       <manufacturerRebate>No</manufacturerRebate>
+        </laptop>
+        <laptop id="DellInspiron15">
+            <name>Dell Inspiron 15</name>
+            <price>699.99</price>
+            <image>Dell-Inspiron.jpg</image>
+            <manufacturer>Dell</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount>
+            <quantity>100</quantity>
+       <manufacturerRebate>No</manufacturerRebate>
+        </laptop>
+        <laptop id="Zenbook">
+            <name>Dell Asus Zenbook</name>
+            <price>1199.99</price>
+            <image>Asus Zenbook.jpg</image>
+            <manufacturer>Dell</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount>
+            <quantity>100</quantity>
+       <manufacturerRebate>No</manufacturerRebate>
+        </laptop>
+        <laptop id="HPEnvy">
+            <name>HP Envy</name>
+            <price>899.99</price>
+            <image>Hp-Envy.jpg</image>
+            <manufacturer>Dell</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount>
+            <quantity>100</quantity>
+       <manufacturerRebate>No</manufacturerRebate>
+        </laptop>
+        <laptop id="LenovoIdeapad">
+            <name>Lenovo Ideapad</name>
+            <price>699.99</price>
+            <image>lenovo-ideaPad.jpg</image>
+            <manufacturer>Dell</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount>
+            <quantity>100</quantity>
+       <manufacturerRebate>No</manufacturerRebate>
+        </laptop>
+    </LaptopCatalog>
+<WearableTechnologyCatalog>
+            <wt id="FitBitCharge5">
+                <name>FitBit Charge 5</name>
+                <price>229.99</price>
+                <image>FitBit Charge 5.webp</image>
+                <manufacturer>Fitnesswatches</manufacturer>
+                <condition>New</condition>
+                <discount>5.0</discount> 
+                <quantity>100</quantity>
+       <manufacturerRebate>No</manufacturerRebate>
+            </wt>
+
+            <wt id="AmazfitBand5">
+               <name>Amazfit Band 5</name>
+                <price>209.99</price>
+                <image>amazfit Band5.jpg</image>
+                <manufacturer>Fitnesswatches</manufacturer>
+                <condition>New</condition>
+                <discount>5.0</discount> 
+                <quantity>100</quantity>
+       <manufacturerRebate>No</manufacturerRebate>
+            </wt>
+
+            <wt id="MiBand7">
+               <name>Mi Band 7</name>
+                <price>329.99</price>
+                <image>Mi Band 7.webp</image>
+                <manufacturer>Fitnesswatches</manufacturer>
+                <condition>New</condition>
+                <discount>5.0</discount> 
+                <quantity>100</quantity>
+       <manufacturerRebate>No</manufacturerRebate>
+            </wt>
+            <wt id="MoreProFitness">
+               <name>MorePro Fitness</name>
+                <price>229.99</price>
+                <image>MorePro Fitness.webp</image>
+                <manufacturer>Fitnesswatches</manufacturer>
+                <condition>New</condition>
+                <discount>5.0</discount> 
+                <quantity>100</quantity>
+       <manufacturerRebate>No</manufacturerRebate>
+            </wt>
+            <wt id="ZururuFitness">
+               <name>Zururu Fitness</name>
+                <price>200</price>
+                <image>Zururu Fitness.webp</image>
+                <manufacturer>Fitnesswatches</manufacturer>
+                <condition>New</condition>
+                <discount>5.0</discount> 
+                <quantity>100</quantity>
+       <manufacturerRebate>No</manufacturerRebate>
+            </wt>
+               
+            <wt id="AmazfitWatch">
+               <name>Amazfit Watch</name>
+                <price>229.99</price>
+                <image>Amazfit Watch.jpg</image>
+                <manufacturer>Smartwatches</manufacturer>
+                <condition>New</condition>
+                <discount>5.0</discount> 
+                <quantity>100</quantity>
+       <manufacturerRebate>Yes</manufacturerRebate>
+            </wt>
+            <wt id="AppleSeries8">
+               <name>Apple Series 8</name>
+                <price>200</price>
+                <image>Apple Series 8.jpg</image>
+                <manufacturer>Smartwatches</manufacturer>
+                <condition>New</condition>
+                <discount>5.0</discount> 
+                <quantity>100</quantity>
+       <manufacturerRebate>Yes</manufacturerRebate>
+            </wt>
+            
+            <wt id="AppleWatchUltra">
+               <name>Apple Watch Ultra</name>
+                <price>229.99</price>
+                <image>Apple Watch Ultra.jpg</image>
+                <manufacturer>Smartwatches</manufacturer>
+                <condition>New</condition>
+                <discount>5.0</discount> 
+                <quantity>100</quantity>
+       <manufacturerRebate>No</manufacturerRebate>
+            </wt>
+            <wt id="FitbitVersa2">
+               <name>Fitbit Versa 2</name>
+                <price>200</price>
+                <image>Fitbit Versa 2.jpg</image>
+                <manufacturer>Smartwatches</manufacturer>
+                <condition>New</condition>
+                <discount>5.0</discount> 
+                <quantity>100</quantity>
+       <manufacturerRebate>No</manufacturerRebate>
+            </wt>
+            <wt id="Galaxywatch5">
+               <name>Galaxy watch 5</name>
+                <price>229.99</price>
+                <image>Galaxy watch 5.jpg</image>
+                <manufacturer>Smartwatches</manufacturer>
+                <condition>New</condition>
+                <discount>5.0</discount> 
+                <quantity>100</quantity>
+       <manufacturerRebate>No</manufacturerRebate>
+            </wt>
+            <wt id="AppleAirPodsMax">
+               <name>Apple-AirPods Max</name>
+                <price>200</price>
+                <image>Apple-AirPods Max.jpg</image>
+                <manufacturer>Headphones</manufacturer>
+                <condition>New</condition>
+                <discount>5.0</discount> 
+                <quantity>100</quantity>
+       <manufacturerRebate>No</manufacturerRebate>
+            </wt>
+            <wt id="BeatsWireLess">
+                <name>Beats-WireLess</name>
+                <price>229.99</price>
+                <image>Beats-WireLess.jpg</image>
+                <manufacturer>Headphones</manufacturer>
+                <condition>New</condition>
+                <discount>5.0</discount> 
+                <quantity>100</quantity>
+       <manufacturerRebate>No</manufacturerRebate>
+            </wt>
+            <wt id="BosewireLess">
+               <name>Bose-wireLess</name>
+                <price>209.99</price>
+                <image>Bose-wireLess.jpg</image>
+                <manufacturer>Headphones</manufacturer>
+                <condition>New</condition>
+                <discount>5.0</discount> 
+                <quantity>100</quantity>
+       <manufacturerRebate>No</manufacturerRebate>
+            </wt>
+            <wt id="Sennheiser">
+               <name>Sennheiser</name>
+                <price>329.99</price>
+                <image>Sennheiser.jpg</image>
+                <manufacturer>Headphones</manufacturer>
+                <condition>New</condition>
+                <discount>5.0</discount> 
+                <quantity>100</quantity>
+       <manufacturerRebate>Yes</manufacturerRebate>
+            </wt>
+            <wt id="Sony-WH-1000XM5">
+               <name>Sony-WH-1000XM5</name>
+                <price>229.99</price>
+                <image>Sony-WH-1000XM5.jpg</image>
+                <manufacturer>Headphones</manufacturer>
+                <condition>New</condition>
+                <discount>5.0</discount> 
+                <quantity>100</quantity>
+       <manufacturerRebate>No</manufacturerRebate>
+            </wt>
+
+           <wt id="AirtagCollar">
+               <name>Air tag Collar</name>
+                <price>200</price>
+                <image>Air tag Collar.webp</image>
+                <manufacturer>PetTracker</manufacturer>
+                <condition>New</condition>
+                <discount>5.0</discount> 
+                <quantity>100</quantity>
+       <manufacturerRebate>No</manufacturerRebate>
+            </wt>
+            <wt id="catTailer">
+               <name>catTailer</name>
+                <price>200</price>
+                <image>catTailer.webp</image>
+                <manufacturer>PetTracker</manufacturer>
+                <condition>New</condition>
+                <discount>5.0</discount> 
+                <quantity>100</quantity>
+       <manufacturerRebate>No</manufacturerRebate>
+            </wt>
+            <wt id="TractiveDogTracker">
+               <name>Tractive Dog Tracker</name>
+                <price>200</price>
+                <image>Tractive Dog Tracker.webp</image>
+                <manufacturer>PetTracker</manufacturer>
+                <condition>New</condition>
+                <discount>5.0</discount> 
+                <quantity>100</quantity>
+       <manufacturerRebate>No</manufacturerRebate>
+            </wt>
+            <wt id="WhistlegoTracker">
+               <name>Whistlego Tracker</name>
+                <price>200</price>
+                <image>WhistlegoTracker.webp</image>
+                <manufacturer>PetTracker</manufacturer>
+                <condition>New</condition>
+                <discount>5.0</discount> 
+                <quantity>100</quantity>
+       <manufacturerRebate>Yes</manufacturerRebate>
+            </wt>
+            <wt id="SonyVR">
+               <name>Sony VR</name>
+                <price>200</price>
+                <image>SonyVR.webp</image>
+                <manufacturer>VirtualReality</manufacturer>
+                <condition>New</condition>
+                <discount>5.0</discount>
+                <quantity>100</quantity>
+       <manufacturerRebate>No</manufacturerRebate> 
+            </wt>
+            <wt id="SkyWinVr">
+               <name>Sky Win Vr</name>
+                <price>200</price>
+                <image>skywinvr.webp</image>
+                <manufacturer>VirtualReality</manufacturer>
+                <condition>New</condition>
+                <discount>5.0</discount> 
+                <quantity>100</quantity>
+       <manufacturerRebate>No</manufacturerRebate>
+            </wt>
+            <wt id="LogitechChorus">
+               <name>Logitech Chorus</name>
+                <price>200</price>
+                <image>LogitechChorus.jpg</image>
+                <manufacturer>VirtualReality</manufacturer>
+                <condition>New</condition>
+                <discount>5.0</discount> 
+                <quantity>100</quantity>
+       <manufacturerRebate>No</manufacturerRebate>
+            </wt>
+            <wt id="Meta-Quest2">
+               <name>Meta-Quest 2</name>
+                <price>200</price>
+                <image>Meta-Quest2.jpg</image>
+                <manufacturer>VirtualReality</manufacturer>
+                <condition>New</condition>
+                <discount>5.0</discount> 
+                <quantity>100</quantity>
+       <manufacturerRebate>No</manufacturerRebate>
+            </wt>
+
+
+    </WearableTechnologyCatalog>
+
+    <VoiceAssistantCatalog>
+        <va id="GoogleHome">
+            <name>Google Home</name>
+            <price>99.99</price>
+            <image>googlehome.jpg</image>
+            <manufacturer>Google</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount> 
+            <quantity>100</quantity>
+       <manufacturerRebate>No</manufacturerRebate>
+        </va>
+        <va id="GoogleHomeMini">
+            <name>Google Home Mini</name>
+            <price>89.99</price>
+            <image>googlehomemini.jpg</image>
+            <manufacturer>Google</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount> 
+            <quantity>100</quantity>
+       <manufacturerRebate>Yes</manufacturerRebate>
+        </va>
+        <va id="GoogleNest">
+            <name>Google Nest</name>
+            <price>149.99</price>
+            <image>googlenest.jpg</image>
+            <manufacturer>Google</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount> 
+            <quantity>100</quantity>
+       <manufacturerRebate>No</manufacturerRebate>
+        </va>
+        <va id="GoogleNestMini">
+            <name>Google Nest Mini</name>
+            <price>59.99</price>
+            <image>Nest Mini.jpg</image>
+            <manufacturer>Google</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount> 
+            <quantity>100</quantity>
+       <manufacturerRebate>No</manufacturerRebate>
+        </va>
+        <va id="AmazonEchoDot">
+            <name>Amazon Echo Dot</name>
+            <price>79.99</price>
+            <image>Amazon EchoDot.jpg</image>
+            <manufacturer>Amazon</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount> 
+            <quantity>100</quantity>
+       <manufacturerRebate>No</manufacturerRebate>
+        </va>
+        <va id="amazonechoDot2">
+            <name>Amazon Echo Dot 2</name>
+            <price>49.99</price>
+            <image>amazonechodot2.jpg</image>
+            <manufacturer>Amazon</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount> 
+            <quantity>100</quantity>
+       <manufacturerRebate>No</manufacturerRebate>
+        </va>
+        <va id="AppleHomePod">
+            <name>Apple Home Pod</name>
+            <price>49.99</price>
+            <image>Apple HomePod.jpg</image>
+            <manufacturer>Apple</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount> 
+            <quantity>100</quantity>
+       <manufacturerRebate>No</manufacturerRebate>
+        </va>
+        <va id="GoogleNestHub">
+            <name>Google Nest Hub</name>
+            <price>49.99</price>
+            <image>Nest Hub.jpg</image>
+            <manufacturer>Google</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount> 
+            <quantity>100</quantity>
+       <manufacturerRebate>No</manufacturerRebate>
+        </va>
+    </VoiceAssistantCatalog>
+
+    <AccessoryCatalog>
+        <accessory id="samsungcase">
+            <name>Samsung Transparent Case</name>
+            <price>9.99</price>
+            <image>samsungcase.jpg</image>
+            <manufacturer>Samsung</manufacturer>
+            <condition>New</condition>
+            <discount>40.0</discount>
+            <quantity>100</quantity>
+       <manufacturerRebate>No</manufacturerRebate>
+        </accessory>
+        <accessory id="samsungadapter">
+            <name>Samsung Fast Adapter</name>
+            <price>19.99</price>
+            <image>samsungada.jpg</image>
+            <manufacturer>Samsung</manufacturer>
+            <condition>New</condition>
+            <discount>40.0</discount>
+            <quantity>100</quantity>
+       <manufacturerRebate>No</manufacturerRebate>
+        </accessory>
+            <accessory id="samsungearphone">
+            <name>Samsung Earphone</name>
+            <price>29.99</price>
+            <image>samsungear.jpg</image>
+            <manufacturer>Samsung</manufacturer>
+            <condition>New</condition>
+            <discount>40.0</discount>
+            <quantity>100</quantity>
+       <manufacturerRebate>Yes</manufacturerRebate>
+            </accessory>
+    </AccessoryCatalog> 
+</ProductCatalog>

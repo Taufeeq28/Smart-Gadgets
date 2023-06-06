@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title>SmartPortables</title>
+<link href="style.css" rel="stylesheet" type="text/css" media="screen" />
+<!-- Links for Jquery and bootstrap css -->
+
+ <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">  
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="autocomplete.js"></script>
+<script type="text/javascript" src="javascript.js"></script>
+
+<style>
+* {
+        box-sizing : unset;
+    }
+    
+.col-md-6{
+        width : 45% ! important;
+    }
+</style>    
+
+</head>
+<body onload="init()" style='margin: 0px ; padding: 0 ; background: #000000 !important; font-family: Georgia, "Times New Roman", Times, serif;  font-size: 12px ;   '>
+    
+    <!-- Start #logo top content of the webpage-->
+    <div id="logo">
+        <header style="margin: 0 auto;text-align: center;">
+            <h1><a href="#" style="color:#7f7f7f">Smart<span style="color:#a80000">Portables</span></a></h1>
+            <h4 style="color:#ffffff">Making it better for you</h2>
+        </header>
+        <!-- <table style="float: center">
+            <tr>
+                <td style="valign: top;"><img src="images/site/GameON.jpg" alt=""
+                    style="height: 80px" /></td>
+                <td><h1>
+                        <a href="#">Smart Portables</a>
+                    </h1></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td><p>
+                        <em>World's Largest Online Games Center</em>
+                    </p></td>
+            </tr>
+        </table>complete-field -->
+        <nav
+            style="float: right; width: 20%; margin-top: 25px; padding: 5px; padding-right: 15px;">
+            <!-- <em style="color: white;">Search Product:</em> -->
+            <div name="autofillform">
+                <input type="text" name="searchId" value="" class="input"
+                    id="searchId" onkeyup="doCompletion()" autocomplete="off"
+                    placeholder="search here.." style="padding: 5px; font-size: 16px;background-color: #242424;color: white;" />
+                <div id="auto-row">
+                    <table id="complete-table" class="gridtable"
+                        style="position: absolute; width: 315px;"></table>
+                </div>
+            </div>
+        </nav>
+
+    </div>
+    <hr />
+    <!-- end #logo -->
+    <!-- start #header -->
+    <!-- menu in header area the header div ends in utility file where header content right side link gets populated with login id cart and logout option -->
+    <div id="header" style="width: 1000px;
+    height: 60px;
+    margin: 0 auto;
+    padding-top: 5px;
+    background-color: #8a0000;">
+        <div id="menu">
+            <ul >
+                
+                <li><a href="Home" class="first" style="color:#9a9a9a"><span class="glyphicon glyphicon-home">Home</span></a></li>
+                <!-- <li><a href="Home" style="color:#9a9a9a"><span class="glyphicon">Products</span></a></li> -->
+                <li>
+                    <a href="All" style="color:#9a9a9a"><span class="glyphicon">Products</span></a>
+                </li>
+                <li><a href="About" style="color:#9a9a9a"><span class="glyphicon">About</span></a></li>
+                <li><a href="Contact" style="color:#9a9a9a"><span class="glyphicon">Contact Us</span></a></li>
+                <!-- <li><a href="Trending" style="color:#9a9a9a"><span class="glyphicon">Trending </span></a></li> -->
+            </ul>
+        </div>  
+        <!-- end #menu -->
+        
+                u
